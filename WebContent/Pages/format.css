@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+body{
+
+	 background-image: url("../Images/back.png");
+	 background-repeat: no-repeat;
+	 background-color: #E0E6F8;
+}
+table{
+	margin-top: 50px;
+}
+
+
+table,th,td {
+	
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align:center;
+	font-family: Verdana Arial sans-serif;
+	
+	font-size: 1em;
+}
+
+tr,td, th {
+	padding: 10px;
+
+}
+
+th {
+	background-color: #A9BCF5;;
+/* 	#A9BCF5; */
+	
+}
+
+.ui-menu {
+	width: 200px;
+}
